@@ -67,4 +67,3 @@ cacheSolve <- function(x, ...) {
 # a$set(matrix(1:4,2,2))
 # cacheSolve(a)
 # cacheSolve(a)
-
